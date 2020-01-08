@@ -1,3 +1,3 @@
 var playlist = {
-  davidwise: "stickerbrush sy
+  davidwise: "stickerbrush symphony"
 };
